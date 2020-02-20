@@ -120,7 +120,7 @@
     <name>BanTableModel</name>
     </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>LlamacoinGUI</name>
     </context>
 <context>
     <name>CoinControlDialog</name>
@@ -234,6 +234,6 @@
     </message>
     </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>llamacoin-core</name>
     </context>
 </TS>

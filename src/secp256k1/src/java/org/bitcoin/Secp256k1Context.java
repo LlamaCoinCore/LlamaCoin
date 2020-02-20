@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.bitcoin;
+package org.llamacoin;
 
 /**
  * This class holds the context reference used in native methods 

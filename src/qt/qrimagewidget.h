@@ -1,9 +1,9 @@
-// Copyright (c) 2011-2019 The Bitcoin Core developers
+// Copyright (c) 2011-2019 The Llamacoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BITCOIN_QT_QRIMAGEWIDGET_H
-#define BITCOIN_QT_QRIMAGEWIDGET_H
+#ifndef LLAMACOIN_QT_QRIMAGEWIDGET_H
+#define LLAMACOIN_QT_QRIMAGEWIDGET_H
 
 #include <QImage>
 #include <QLabel>
@@ -42,4 +42,4 @@ private:
     QMenu *contextMenu;
 };
 
-#endif // BITCOIN_QT_QRIMAGEWIDGET_H
+#endif // LLAMACOIN_QT_QRIMAGEWIDGET_H
